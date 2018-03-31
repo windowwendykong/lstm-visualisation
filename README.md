@@ -12,3 +12,5 @@ There is some commented code and saved models, so if you want to experiment and 
 If you want to make a movie, you have to generate frames and then execute ffmpeg:
 
 `ffmpeg -framerate 10 -i lstm2d-%03d.png -f mov output.mov`
+
+https://archive.ics.uci.edu/ml/datasets/Australian+Sign+Language+signs
